@@ -28,6 +28,7 @@ def toivotus(nimi, aika):
 toivotus('Jonna', 9)
 
 alkulitania = 'millon minä olisin työni tehnyt' 
+
 def tyoMotivaatio(paiva: str) -> str:
     """Returns the motto of the day in Finnish
 
